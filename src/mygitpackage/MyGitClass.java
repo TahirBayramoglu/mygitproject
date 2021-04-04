@@ -11,6 +11,8 @@ public class MyGitClass {
 		System.out.println("Yeni baslangiclar");
 		System.out.println("Uzak sunucudaki kodum");
 		
+		System.out.println("tahir bey yeni bir kod ekledi");
+		
 	}
 	
 	
