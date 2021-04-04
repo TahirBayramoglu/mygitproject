@@ -12,6 +12,8 @@ public class MyGitClass {
 		System.out.println("Uzak sunucudaki kodum");
 		
 		System.out.println("14. satir bilgisayarim");
+
+		System.out.println("14. satir uzak bilgisayar");
 		
 	}
 	
