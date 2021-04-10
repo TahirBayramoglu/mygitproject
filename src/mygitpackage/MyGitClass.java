@@ -20,7 +20,9 @@ public class MyGitClass {
 		System.out.println("18. satir uzak sunucu");
 
 		System.out.println("24. satir uzak sunucu");
-
+		
+		
+		System.out.println("Tahir branchinde ekledigim kodalar");
 	}
 
 }
